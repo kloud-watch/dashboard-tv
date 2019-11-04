@@ -1,0 +1,22 @@
+{
+  "name": "dashboard-tv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kloud-watch/dashboard-tv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kloud-watch/dashboard-tv/issues"
+  },
+  "homepage": "https://github.com/kloud-watch/dashboard-tv#readme",
+  "devDependencies": {
+    "electron": "^7.0.1"
+  }
+}
