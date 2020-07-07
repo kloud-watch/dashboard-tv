@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kloud-watch/dashboard-tv#readme",
   "devDependencies": {
-    "electron": "^7.0.1"
+    "electron": "^7.2.4"
   }
 }
